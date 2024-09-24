@@ -1142,7 +1142,8 @@ img {
 }
 .facebook{
   background-color:#fff;
-  border-radius: 2rem;
+  border-radius: 5%;
+  padding: 5px;
 }
 
 .instagram{
